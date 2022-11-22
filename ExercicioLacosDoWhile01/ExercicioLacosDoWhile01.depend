@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666911389 source:c:\users\pc\documents\devc\exerciciolacosdowhile01\main.c
+	<stdio.h>
+	<stdlib.h>
+
